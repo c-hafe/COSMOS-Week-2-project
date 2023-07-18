@@ -18,6 +18,7 @@ obj/
 *.user
 *.unityproj
 *.booproj
+*.log
 
 # ============ #
 # OS generated #
@@ -29,3 +30,4 @@ obj/
 .Trashes
 ehthumbs.db
 Thumbs.db
+Logs/shadercompiler-UnityShaderCompiler.exe1.log
