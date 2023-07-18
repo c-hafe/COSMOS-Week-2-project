@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
+  - TowerBall
+  - TowerSpawn
+  - Waypoint
+  - Basic Monkey
+  - Goal
+  - Monkey
   layers:
   - Default
   - TransparentFX
