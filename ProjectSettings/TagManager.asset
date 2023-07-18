@@ -11,6 +11,7 @@ TagManager:
   - Basic Monkey
   - Goal
   - Monkey
+  - Ground
   layers:
   - Default
   - TransparentFX
