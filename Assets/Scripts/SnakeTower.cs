@@ -5,7 +5,7 @@ using UnityEngine;
 public class SnakeTower : MonoBehaviour
 {
     
-    // Start is called before the first frame update
+   /* // Start is called before the first frame update
     
     //member variables
 
@@ -61,5 +61,6 @@ public class SnakeTower : MonoBehaviour
 
 
     }
+   */
 
 }
