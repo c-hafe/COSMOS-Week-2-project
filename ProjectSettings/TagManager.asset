@@ -12,6 +12,7 @@ TagManager:
   - Goal
   - Monkey
   - Ground
+  - Void
   layers:
   - Default
   - TransparentFX
